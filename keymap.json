@@ -1,0 +1,12 @@
+[
+  {
+    "context": "Editor && vim_mode == normal",
+    "bindings": {
+      "space space": "file_finder::Toggle",
+      "space e": "workspace::ToggleRightDock",
+      "space f": "editor::Format",
+      "ctrl-j": "workspace::ToggleBottomDock"
+      
+    }
+  }
+]
