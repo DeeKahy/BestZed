@@ -24,7 +24,7 @@
     "version": "2"
   },
   "show_completions_on_input": true,
-  "icon_theme": "Material Icon Theme",
+  "icon_theme": "Catppuccin Latte",
   "auto_update": false,
   "telemetry": {
     "metrics": true
